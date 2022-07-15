@@ -6,9 +6,18 @@ A small project in visualizing rock climbing data. This project was part of the 
 
 For an in-depth description of the project please see the accompanying [Report](https://github.com/dmdequin/DataVisualization_RockClimbing/blob/main/SubmittedFiles/Report.pdf).
 
+## Dependencies
+
+Jupyter Notebook
+Python
+Alteryx
+Tableau
+
 ## Directories
 
 ### Data
+
+The Data is derived from [OpenBeat](https://github.com/OpenBeta/climbing-data/tree/main/curated_datasets). The [Boulder_safety_and_Stars.csv](https://github.com/OpenBeta/climbing-data/blob/main/curated_datasets/Boulder_Safety_and_Stars.csv) and the [CuratedwithRatings_OpenBetaAug2020_RytherAnderson.pkl.zip](https://github.com/OpenBeta/climbing-data/blob/main/curated_datasets/CuratedWithRatings_OpenBetaAug2020_RytherAnderson.pkl.zip) were both utilized for this project.
 
 ### SubmittedFiles
 
