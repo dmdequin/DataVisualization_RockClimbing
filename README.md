@@ -10,11 +10,18 @@ For an in-depth description of the project please see the accompanying [Report](
 
 In order to look into the files in the WorkFiles directory, Jupyter Notebook, Python3, Alteryx, and Tableau are required.
 
+To run the files in the WorkFiles directory, the last two data sources listed under data will need to be downloaded directly from OpenBeta.
+
 ## Directories
 
 ### Data
 
-The Data is derived from [OpenBeat](https://github.com/OpenBeta/climbing-data/tree/main/curated_datasets). The [Boulder_safety_and_Stars.csv](https://github.com/OpenBeta/climbing-data/blob/main/curated_datasets/Boulder_Safety_and_Stars.csv) and the [CuratedwithRatings_OpenBetaAug2020_RytherAnderson.pkl.zip](https://github.com/OpenBeta/climbing-data/blob/main/curated_datasets/CuratedWithRatings_OpenBetaAug2020_RytherAnderson.pkl.zip) were both utilized for this project.
+The Data is derived from [OpenBeat](https://github.com/OpenBeta/climbing-data/tree/main/curated_datasets). 
+
+Specifically the following files were used: 
+* [Boulder_safety_and_Stars.csv](https://github.com/OpenBeta/climbing-data/blob/main/curated_datasets/Boulder_Safety_and_Stars.csv) 
+*  [CuratedwithRatings_OpenBetaAug2020_RytherAnderson.pkl.zip](https://github.com/OpenBeta/climbing-data/blob/main/curated_datasets/CuratedWithRatings_OpenBetaAug2020_RytherAnderson.pkl.zip) 
+*  [Curated_OpenBetaAug2020_RytherAnderson.pkl.zip](https://github.com/OpenBeta/climbing-data/blob/main/curated_datasets/Curated_OpenBetaAug2020_RytherAnderson.pkl.zip) 
 
 ### SubmittedFiles
 
