@@ -21,16 +21,8 @@ For an in-depth description of the project please see the accompanying [Report](
 Danielle Dequin
 [LinkedIn](https://www.linkedin.com/in/danielle-dequin/)
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Dom Pizie](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+* For the Readme template: [Dom Pizie](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 *
