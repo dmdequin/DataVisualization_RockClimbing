@@ -23,7 +23,7 @@ The Data is derived from [OpenBeat](https://github.com/OpenBeta/climbing-data/tr
 
 * A [report](https://github.com/dmdequin/DataVisualization_RockClimbing/blob/main/SubmittedFiles/Report.pdf) that has an in-depth explanation of the data, visualization choices, and goal of the project.
 
-* A [powerpoint presentation] that was used for presenting and defending the visualization choices of this project.
+* A [powerpoint presentation](https://github.com/dmdequin/DataVisualization_RockClimbing/blob/main/SubmittedFiles/Presentation.pptx.pdf) that was used for presenting and defending the visualization choices of this project.
 
 ### Visualizations
 
