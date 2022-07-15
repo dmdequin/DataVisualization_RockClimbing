@@ -1,10 +1,10 @@
 # Data Visualization: Rock Climbing
 
-A small project in visualizing rock climbing data.
+A small project in visualizing rock climbing data. This project was part of the final project requirements for the Data Visualization and Data Driven Decision-Making course at the IT-University of Copenhagen in Spring 2022.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+For an in-depth description of the project please see (insert document link here).
 
 ## Getting Started
 
