@@ -4,7 +4,7 @@ A small project in visualizing rock climbing data. This project was part of the 
 
 ## Description
 
-For an in-depth description of the project please see [Report.pdf](https://github.com/dmdequin/DataVisualization_RockClimbing/blob/main/SubmittedFiles/Report.pdf).
+For an in-depth description of the project please see the accompanying [Report](https://github.com/dmdequin/DataVisualization_RockClimbing/blob/main/SubmittedFiles/Report.pdf).
 
 ## Getting Started
 
