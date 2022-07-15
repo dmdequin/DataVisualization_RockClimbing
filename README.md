@@ -16,7 +16,7 @@ For an in-depth description of the project please see the accompanying [Report](
 ## Authors
 
 Danielle Dequin
-(https://www.linkedin.com/in/danielle-dequin/)
+[LinkedIn](https://www.linkedin.com/in/danielle-dequin/)
 
 ## Version History
 
