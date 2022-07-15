@@ -8,10 +8,7 @@ For an in-depth description of the project please see the accompanying [Report](
 
 ## Dependencies
 
-Jupyter Notebook
-Python
-Alteryx
-Tableau
+In order to look into the files in the WorkFiles directory, Jupyter Notebook, Python3, Alteryx, and Tableau are required.
 
 ## Directories
 
@@ -46,4 +43,4 @@ Danielle Dequin
 
 Inspiration, code snippets, etc.
 * For the Readme template: [Dom Pizie](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-*
+* The creators of [OpenBeta](https://github.com/OpenBeta)
