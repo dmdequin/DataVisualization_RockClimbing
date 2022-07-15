@@ -8,13 +8,13 @@ For an in-depth description of the project please see the accompanying [Report](
 
 ## Directories
 
-### One
+### Data
 
-### Two
+### SubmittedFiles
 
-### Three
+### Visualizations
 
-### Four
+### WorkFiles
 
 ## Authors
 
