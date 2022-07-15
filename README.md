@@ -31,6 +31,12 @@ Png Files of the three visualizations created in this project.
 
 ### WorkFiles
 
+* A jupyter notebook was used for data exploration and to compute the average rating of climbs in the CuratedWithRatings dataset. This notebook was also used to compare data in the datasets against Mountain Project, the source of OpenBeta, in order to confirm accuracy.
+
+* Alteryx things
+
+* Tableau things
+
 ## Authors
 
 Danielle Dequin
