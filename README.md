@@ -6,12 +6,15 @@ A small project in visualizing rock climbing data. This project was part of the 
 
 For an in-depth description of the project please see the accompanying [Report](https://github.com/dmdequin/DataVisualization_RockClimbing/blob/main/SubmittedFiles/Report.pdf).
 
-## Getting Started
+## Directories
 
-### Dependencies
+### One
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### Two
+
+### Three
+
+### Four
 
 ## Authors
 
