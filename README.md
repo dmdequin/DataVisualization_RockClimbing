@@ -8,9 +8,9 @@ For an in-depth description of the project please see the accompanying [Report](
 
 ## Dependencies
 
-In order to look into the files in the WorkFiles directory, Jupyter Notebook, Python3, Alteryx, and Tableau are required.
+Jupyter Notebook and Python3 are required to run the notebook in the WorkFiles directory.
 
-To run the files in the WorkFiles directory, the last two data sources listed under data will need to be downloaded directly from OpenBeta.
+Additionally, the last two data sources listed under data below will need to be downloaded directly from OpenBeta.
 
 ## Directories
 
@@ -36,10 +36,6 @@ Png Files of the three visualizations created in this project.
 ### WorkFiles
 
 * A jupyter notebook was used for data exploration and to compute the average rating of climbs in the CuratedWithRatings dataset. This notebook was also used to compare data in the datasets against Mountain Project, the source of OpenBeta, in order to confirm accuracy.
-
-* Two Alteryx files used to filter the data.
-
-* Two Tableau files used for data visualization.
 
 ## Authors
 
